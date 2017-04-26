@@ -132,6 +132,13 @@ a:visited {
   display: block;
   height: 400px;
 }
+#samantha-knight-cover {
+    background-image: url("http://i.imgur.com/K07eLnm.jpg");
+}
+
+#samantha-knight-card {
+    background-image: url("http://i.imgur.com/7KkXa0X.jpg");
+}
 
 #irina-afanaseva-cover {
     background-image: url("http://i.imgur.com/0mb6WMf.jpg");
